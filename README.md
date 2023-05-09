@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my problem-solving skills.**
 
-- 🌱 I’m currently learning **ReactJS and Java-Spring**
+- 🌱 I’m currently learning **Java-Spring Boot and ReactJS**
 
 - 👯 I’m looking to collaborate **with other Developers. 🙌**
 
