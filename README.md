@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my problem-solving skills.**
 
-- 🌱 I’m currently learning **Java-Spring Boot and ReactJS**
+- 🌱 I’m currently learning **Java-Spring Boot and Angular**
 
 - 👯 I’m looking to collaborate **with other Developers. 🙌**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mudar-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudar-hussain" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/mudar_shussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudar_shussain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mudar_hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudar_shussain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
